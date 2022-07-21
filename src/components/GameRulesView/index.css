@@ -1,0 +1,33 @@
+.rules-img {
+  height: 400px;
+  width: 450px;
+}
+
+.rules-button {
+  background-color: #ffffff;
+  font-weight: bold;
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #223a5f;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.pop-up-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: flex-end;
+  padding: 10px;
+}
+
+.cross-button {
+  align-self: flex-end;
+  padding: 10px;
+  margin: 10px;
+}
+
+.rules-pop-container {
+  background-color: #ffffff;
+  padding: 50px;
+}

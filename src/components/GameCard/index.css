@@ -1,0 +1,14 @@
+.choice-img {
+  width: 200px;
+}
+
+.list-rps {
+  list-style-type: none;
+  max-width: 450px;
+}
+
+.rps-button {
+  background-color: transparent;
+  border-width: 0px;
+  outline: none;
+}
